@@ -1,0 +1,38 @@
+html, body {
+	font-family: sans-serif;
+}
+
+
+header div {
+	display:inline;
+}
+
+
+.one {
+	font-size: 42pt;
+}
+
+.two {
+	margin-left: 20em;
+}
+
+
+
+.main {
+	margin: 5.5em;
+}
+
+h1 {
+	font-size: 55px;
+}
+
+div p {
+	font-family: serif;
+	line-height: 30px;
+	font-size: 25px;
+}
+line {}
+
+footer {
+
+}
